@@ -1,0 +1,23 @@
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\Definitions.ExploreAndCollect.h
+d:\unreal projects\exploreandcollect\source\exploreandcollect\ExploreAndCollectGameMode.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Inc\ExploreAndCollect\ExploreAndCollectGameMode.generated.h
+d:\unreal projects\exploreandcollect\source\exploreandcollect\ExploreAndCollectHUD.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Inc\ExploreAndCollect\ExploreAndCollectHUD.generated.h
+d:\unreal projects\exploreandcollect\source\exploreandcollect\ExploreAndCollectCharacter.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Inc\ExploreAndCollect\ExploreAndCollectCharacter.generated.h

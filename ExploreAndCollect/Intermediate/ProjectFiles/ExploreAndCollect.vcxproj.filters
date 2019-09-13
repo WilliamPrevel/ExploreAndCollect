@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ExploreAndCollect.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FC41D35A-8C6D-4123-B048-26633207BD8F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ExploreAndCollect.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ExploreAndCollectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B1D1DA46-115C-4862-A666-EA4AE8AFFA2A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ExploreAndCollect">
+      <UniqueIdentifier>{1774A8D0-5231-43B0-981E-425D812EFBF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ExploreAndCollect\ExploreAndCollect.Build.cs">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\ExploreAndCollect.cpp">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\ExploreAndCollect.h">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\ExploreAndCollectCharacter.cpp">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\ExploreAndCollectCharacter.h">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\ExploreAndCollectGameMode.cpp">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\ExploreAndCollectGameMode.h">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\ExploreAndCollectHUD.cpp">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\ExploreAndCollectHUD.h">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\ExploreAndCollectProjectile.cpp">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\ExploreAndCollectProjectile.h">
+      <Filter>Source\ExploreAndCollect</Filter>
+    </ClInclude>
+    <Filter Include="Source\ExploreAndCollect\Private">
+      <UniqueIdentifier>{2AD7769D-0DE9-43ED-B12C-615162E9F930}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\Private\GameplayController.cpp">
+      <Filter>Source\ExploreAndCollect\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\Private\GameplayGamemode.cpp">
+      <Filter>Source\ExploreAndCollect\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\Private\Interactable.cpp">
+      <Filter>Source\ExploreAndCollect\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\Private\MissionInteractable.cpp">
+      <Filter>Source\ExploreAndCollect\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\Private\MissionManager.cpp">
+      <Filter>Source\ExploreAndCollect\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ExploreAndCollect\Private\Pickup.cpp">
+      <Filter>Source\ExploreAndCollect\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ExploreAndCollect\Public">
+      <UniqueIdentifier>{B8D38DB5-2BB1-40DE-A6BB-421E5766D9E7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\Public\GameplayController.h">
+      <Filter>Source\ExploreAndCollect\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\Public\GameplayGamemode.h">
+      <Filter>Source\ExploreAndCollect\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\Public\Interactable.h">
+      <Filter>Source\ExploreAndCollect\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\Public\MissionInteractable.h">
+      <Filter>Source\ExploreAndCollect\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\Public\MissionManager.h">
+      <Filter>Source\ExploreAndCollect\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ExploreAndCollect\Public\Pickup.h">
+      <Filter>Source\ExploreAndCollect\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

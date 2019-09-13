@@ -1,0 +1,37 @@
+﻿  Creating makefile for ExploreAndCollectEditor (no existing makefile)
+  Parsing headers for ExploreAndCollectEditor
+    Running UnrealHeaderTool "D:\Unreal Projects\ExploreAndCollect\ExploreAndCollect.uproject" "D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\ExploreAndCollectEditor\Development\ExploreAndCollectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ExploreAndCollectEditor in 8.7672093 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (D:\ProgramData\Microsoft\Visual Studios Itself\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 27 actions with 8 processes...
+    [1/27] Default.rc2
+    [2/27] SharedPCH.Engine.cpp
+    [3/27] GameplayGamemode.cpp
+    [4/27] Interactable.cpp
+    [5/27] MissionInteractable.cpp
+    [6/27] ExploreAndCollect.init.gen.cpp
+    [7/27] MissionManager.cpp
+    [8/27] ExploreAndCollectHUD.cpp
+    [9/27] ExploreAndCollectGameMode.cpp
+    [10/27] ExploreAndCollectHUD.gen.cpp
+    [11/27] ExploreAndCollectGameMode.gen.cpp
+    [12/27] ExploreAndCollectProjectile.gen.cpp
+    [13/27] ExploreAndCollectCharacter.cpp
+    [14/27] Interactable.gen.cpp
+    [15/27] GameplayController.gen.cpp
+    [16/27] GameplayGamemode.gen.cpp
+    [17/27] MissionInteractable.gen.cpp
+    [18/27] Pickup.gen.cpp
+    [19/27] ExploreAndCollectProjectile.cpp
+    [20/27] MissionManager.gen.cpp
+    [21/27] ExploreAndCollectCharacter.gen.cpp
+    [22/27] GameplayController.cpp
+    [23/27] Pickup.cpp
+    [24/27] ExploreAndCollect.cpp
+    [25/27] UE4Editor-ExploreAndCollect.lib
+       Creating library D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\UE4Editor-ExploreAndCollect.lib and object D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\UE4Editor-ExploreAndCollect.exp
+    [26/27] UE4Editor-ExploreAndCollect.dll
+       Creating library D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\UE4Editor-ExploreAndCollect.suppressed.lib and object D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\UE4Editor-ExploreAndCollect.suppressed.exp
+    [27/27] ExploreAndCollectEditor.target
+  Total time in Parallel executor: 45.22 seconds
+  Total execution time: 59.52 seconds

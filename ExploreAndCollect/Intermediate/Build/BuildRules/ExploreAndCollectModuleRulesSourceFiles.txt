@@ -1,0 +1,3 @@
+D:\Unreal Projects\ExploreAndCollect\Source\ExploreAndCollect\ExploreAndCollect.Build.cs
+D:\Unreal Projects\ExploreAndCollect\Source\ExploreAndCollect.Target.cs
+D:\Unreal Projects\ExploreAndCollect\Source\ExploreAndCollectEditor.Target.cs

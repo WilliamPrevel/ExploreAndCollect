@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ExploreAndCollect-8282.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\ExploreAndCollectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\GameplayController.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\GameplayGamemode.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\Interactable.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\MissionInteractable.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\MissionManager.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\Pickup.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollect.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollectCharacter.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollectGameMode.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollectHUD.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollectProjectile.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollect.init.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollectCharacter.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollectGameMode.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollectHUD.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\ExploreAndCollectProjectile.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\GameplayController.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\GameplayGamemode.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\Interactable.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\MissionInteractable.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\MissionManager.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\Pickup.gen.cpp.obj"
+"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\Default.rc2.res"
+/OUT:"D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\UE4Editor-ExploreAndCollect-8282.lib"
+/INCLUDE:IMPLEMENT_MODULE_ExploreAndCollect

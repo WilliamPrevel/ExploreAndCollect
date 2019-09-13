@@ -1,0 +1,50 @@
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\Definitions.ExploreAndCollect.h
+d:\unreal projects\exploreandcollect\source\exploreandcollect\ExploreAndCollectCharacter.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Inc\ExploreAndCollect\ExploreAndCollectCharacter.generated.h
+D:\Unreal Projects\ExploreAndCollect\Source\ExploreAndCollect\Public\Interactable.h
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Inc\ExploreAndCollect\Interactable.generated.h
+D:\Unreal Projects\ExploreAndCollect\Source\ExploreAndCollect\Public\GameplayController.h
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Inc\ExploreAndCollect\GameplayController.generated.h
+d:\unreal projects\exploreandcollect\source\exploreandcollect\ExploreAndCollectProjectile.h
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Inc\ExploreAndCollect\ExploreAndCollectProjectile.generated.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Public\KeyState.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
+D:\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+d:\ue_4.22\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+d:\ue_4.22\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+d:\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+d:\ue_4.22\engine\source\runtime\headmounteddisplay\public\IMotionController.h
+d:\ue_4.22\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
+D:\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h

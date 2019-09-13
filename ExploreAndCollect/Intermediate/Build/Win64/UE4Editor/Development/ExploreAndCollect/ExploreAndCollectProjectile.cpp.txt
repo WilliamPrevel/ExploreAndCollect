@@ -1,0 +1,11 @@
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Development\ExploreAndCollect\Definitions.ExploreAndCollect.h
+d:\unreal projects\exploreandcollect\source\exploreandcollect\ExploreAndCollectProjectile.h
+D:\Unreal Projects\ExploreAndCollect\Intermediate\Build\Win64\UE4Editor\Inc\ExploreAndCollect\ExploreAndCollectProjectile.generated.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
